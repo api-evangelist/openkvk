@@ -1,0 +1,47 @@
+{
+    "name": "Openkvk",
+    "description": "Handelsregister 24x7 + API | https:\/\/t.co\/RRcjDYqdu0",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2204-openkvk.jpg",
+    "tags": [
+        "europe",
+        "financial",
+        "have api",
+        "legal",
+        "netherlands"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/openkvk\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Openkvk",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2204-openkvk.jpg",
+            "humanURL": "https:\/\/www.openkvk.nl\/api.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/openkvk-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/openkvk-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/openkvk"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.openkvk.nl\/api.html"
+        }
+    ]
+}
